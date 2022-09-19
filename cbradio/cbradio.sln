@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32825.248
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "cbradio", "cbradio\cbradio.csproj", "{39CA8944-25B0-4D95-A807-B7FF9F1D68FC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{39CA8944-25B0-4D95-A807-B7FF9F1D68FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{39CA8944-25B0-4D95-A807-B7FF9F1D68FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{39CA8944-25B0-4D95-A807-B7FF9F1D68FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{39CA8944-25B0-4D95-A807-B7FF9F1D68FC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3714A969-819E-4DBF-8322-8DA4B8F7C3E7}
+	EndGlobalSection
+EndGlobal
