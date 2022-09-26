@@ -1,0 +1,15 @@
+C:\Users\PC1\source\repos\Uzemanyag\Uzemanyag\bin\Debug\net6.0\Uzemanyag.exe
+C:\Users\PC1\source\repos\Uzemanyag\Uzemanyag\bin\Debug\net6.0\Uzemanyag.deps.json
+C:\Users\PC1\source\repos\Uzemanyag\Uzemanyag\bin\Debug\net6.0\Uzemanyag.runtimeconfig.json
+C:\Users\PC1\source\repos\Uzemanyag\Uzemanyag\bin\Debug\net6.0\Uzemanyag.dll
+C:\Users\PC1\source\repos\Uzemanyag\Uzemanyag\bin\Debug\net6.0\Uzemanyag.pdb
+C:\Users\PC1\source\repos\Uzemanyag\Uzemanyag\obj\Debug\net6.0\Uzemanyag.csproj.AssemblyReference.cache
+C:\Users\PC1\source\repos\Uzemanyag\Uzemanyag\obj\Debug\net6.0\Uzemanyag.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC1\source\repos\Uzemanyag\Uzemanyag\obj\Debug\net6.0\Uzemanyag.AssemblyInfoInputs.cache
+C:\Users\PC1\source\repos\Uzemanyag\Uzemanyag\obj\Debug\net6.0\Uzemanyag.AssemblyInfo.cs
+C:\Users\PC1\source\repos\Uzemanyag\Uzemanyag\obj\Debug\net6.0\Uzemanyag.csproj.CoreCompileInputs.cache
+C:\Users\PC1\source\repos\Uzemanyag\Uzemanyag\obj\Debug\net6.0\Uzemanyag.dll
+C:\Users\PC1\source\repos\Uzemanyag\Uzemanyag\obj\Debug\net6.0\refint\Uzemanyag.dll
+C:\Users\PC1\source\repos\Uzemanyag\Uzemanyag\obj\Debug\net6.0\Uzemanyag.pdb
+C:\Users\PC1\source\repos\Uzemanyag\Uzemanyag\obj\Debug\net6.0\Uzemanyag.genruntimeconfig.cache
+C:\Users\PC1\source\repos\Uzemanyag\Uzemanyag\obj\Debug\net6.0\ref\Uzemanyag.dll
